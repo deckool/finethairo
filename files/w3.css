@@ -282,7 +282,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
     top: 5px;
     right: 5px;
     font-size: 60px;
-    color:#ff0066
+    color:#ff0066;
   }
   
   /* When the height of the screen is less than 450 pixels, change the font-size of the links and position the close button again, so they don't overlap */
