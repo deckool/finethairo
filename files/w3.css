@@ -300,6 +300,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
     border: 1px solid #aaa;
     border-radius: 4px;
     padding: 0.5em 0.5em 0;
+    margin-bottom: 1em;
   }
   
   summary {
